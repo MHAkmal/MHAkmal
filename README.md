@@ -41,8 +41,11 @@
   <a href="https://linkedin.com/mhakmal" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>             
-  
-  ![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/:akmal621)
+  <a href="https://linkedin.com/mhakmal" target="_blank">
+    <img src="[https://img.shields.io/twitter/follow/:akmal621" target="_blank" />
+  </a> 
+    
+  ![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/akmal621)
 </div>
 
 <hr/>
