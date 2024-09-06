@@ -33,10 +33,10 @@
 <h2 align="center">  How To Reach Me  </h2>
 
 <div align="center"> 
-  <a href="mailto:mhibaturakmal@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" target="_blank" />
+  <a href="mailto:mhibaturakmal@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
-  <a href="https://https://www.linkedin.com/in/mhakmal" target="_blank">
+  <a href="https://https://www.linkedin.com/in/Muhammad-Hibatur-Akmal" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>             
 
