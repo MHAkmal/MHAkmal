@@ -8,13 +8,10 @@
  ⚡ **The word "data" is the plural of "datum", which is a Latin noun that means "something given"*
 </div>
 
-<h2 align="center"> My Project </h2>
+<h2 align="center"> My Project & Portfolio </h2>
 <div align="center">
     
-| Data Engineering | Data Science/ML/AI | Data Analysis & Visualization | 
-| :---: | :---: | :---: | 
-| [End-to-End-ELT-YellowTaxi-Data-Warehouse](https://github.com/MHAkmal/end-to-end-elt-yellowtaxi-data-warehouse) |   |   |  
-| [Cricbuzz-ETL-Pipeline-with-GCP-Data-Engineering](https://github.com/MHAkmal/Cricbuzz-ETL-Pipeline-with-GCP-Data-Engineering) | [Classification-Model-for-Bank-Customer-Churn-Prediction](https://github.com/MHAkmal/Classification-Model-for-Bank-Customer-Churn-Prediction) | [AdventureWorks-Sales-Overview](https://github.com/MHAkmal/AdventureWorks-Sales-Overview) | 
+[For My Project & Portfolio Please Click Here](https://github.com/MHAkmal/MHAkmal-Data-Portfolio)
 
 </div>
 
